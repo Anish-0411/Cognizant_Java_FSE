@@ -5,8 +5,7 @@ public class FinancialForecast {
         if (years == 0) {
             return currentValue;
         }
-        return predictFutureValue(currentValue, growthRate, years - 1)
-                * (1 + growthRate / 100);
+        return predictFutureValue(currentValue, growthRate, years - 1) * (1 + growthRate / 100);
     }
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Engineering_Concepts.Algorithms_Data_Structures;
+package Engineering_Concepts.Algorithms_Data_Structures.E_Commerce_Search;
 import java.util.ArrayList;
 import java.util.Arrays;
 
